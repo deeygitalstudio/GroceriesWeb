@@ -1,0 +1,26 @@
+nav img{
+    width: 35px;
+    cursor: pointer;
+}
+
+.nav-item .active{
+    color: #373636!important;
+    margin: 0 15px;
+    font-size: 13px;
+}
+
+
+
+.navbar-brand{
+    color: #3b3b3b;
+}
+.navbar-brand img{
+   width: 120px;
+}
+
+.navbar{
+    z-index: 999;
+    top: 0;
+    background-color: #fff;
+ 
+}

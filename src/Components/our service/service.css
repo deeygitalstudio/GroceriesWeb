@@ -1,0 +1,11 @@
+ .bars{
+            display: flex;
+            align-items: center;
+            margin: 20px 0;
+           
+ }
+           .bars img{
+                width: 70px;
+                margin-right: 20px;
+            }
+        

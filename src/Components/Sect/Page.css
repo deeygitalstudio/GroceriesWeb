@@ -1,0 +1,22 @@
+ h1{
+                    font-size: 50px;
+                    font-weight: 700;
+                }
+
+ span{
+
+                color: rgb(2, 167, 2);
+    }    
+
+    
+    @media screen and (max-width: 600px){
+         h1{
+                    font-size: 40px;
+                    font-weight: 600;
+                }
+
+                .--section4{
+                    padding-top: 8rem;
+                    text-align: center;
+                }
+    }
